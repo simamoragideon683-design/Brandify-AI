@@ -384,7 +384,7 @@ module.exports = async function handler(req, res) {
 
                         responseSchema: schema,
 
-                        maxOutputTokens: 8192,
+                       maxOutputTokens: 4096,
 
                         ...(
                             model === 'gemini-3.8-flash'
@@ -398,7 +398,7 @@ module.exports = async function handler(req, res) {
                     }
                 }),
 
-                signal: AbortSignal.timeout(28000),
+               signal: AbortSignal.timeout(50000),
 
                 redirect: 'error'
             }
