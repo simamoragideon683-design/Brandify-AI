@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="280" viewBox="0 0 630 280" role="img" aria-label="Lembar analisis identitas dengan diagram warna dan perbandingan visual">
+<title>Lembar analisis identitas dengan diagram warna dan perbandingan visual</title>
+<defs>
+  <filter id="paper" x="-30%" y="-25%" width="170%" height="175%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="4.5"/></filter>
+  <pattern id="grain" width="6" height="7" patternUnits="userSpaceOnUse"><circle cx="1" cy="2" r=".52" fill="#332a23" opacity=".38"/><circle cx="5" cy="5" r=".5" fill="#fffdf4" opacity=".64"/></pattern>
+  <linearGradient id="wheat" x2="1" y2=".9"><stop stop-color="#f0d898"/><stop offset=".6" stop-color="#e9c979"/><stop offset="1" stop-color="#dabb6c"/></linearGradient>
+</defs>
+<rect width="630" height="280" fill="url(#wheat)"/>
+<g transform="rotate(9 324 143)"><rect x="180" y="46" width="292" height="203" rx="2" fill="#67552e" opacity=".22" filter="url(#paper)"/><rect x="178" y="41" width="292" height="203" rx="2" fill="#c17346"/><rect x="190" y="52" width="267" height="181" fill="none" stroke="#deb088" stroke-width=".9"/></g>
+<g transform="rotate(-6.5 304 142)"><rect x="149" y="45" width="302" height="202" rx="2" fill="#625033" opacity=".38" filter="url(#paper)"/><rect x="144" y="37" width="302" height="202" rx="2" fill="#fff2ce"/>
+<path d="M160 54h14v2h-14Zm18 0h28v2h-28Zm-18 15h268m-268 139h268" stroke="#8c805c" stroke-width=".7" fill="#5b543d"/>
+<g transform="translate(232 137) rotate(-90)" fill="none" stroke-width="24"><circle r="38" stroke="#e7d799"/><circle r="38" stroke="#385347" stroke-dasharray="100 239"/><circle r="38" stroke="#de8652" stroke-dasharray="68 239" stroke-dashoffset="-104"/><circle r="38" stroke="#a7ac78" stroke-dasharray="59 239" stroke-dashoffset="-176"/></g>
+<circle cx="232" cy="137" r="3.3" fill="#9c8b65"/>
+<g fill="none" stroke="#c3b38c" stroke-width=".8"><path d="M311 99h95m-95 26h95m-95 26h95m-95 26h95"/></g>
+<g fill="#aac18c"><rect x="318" y="151" width="13" height="26"/><rect x="358" y="124" width="13" height="53"/></g><rect x="338" y="136" width="13" height="41" fill="#d8905d"/><rect x="378" y="106" width="13" height="71" fill="#385347"/>
+<g fill="#6f684e"><circle cx="162" cy="220" r="2" fill="#385347"/><path d="M170 219h32v1.5h-32Z"/><circle cx="215" cy="220" r="2" fill="#de8652"/><path d="M223 219h28v1.5h-28Z"/></g></g>
+<g transform="rotate(24 466 151)"><path d="M464 60h9v153l-4 18-5-18Z" fill="#6d562c" opacity=".28" filter="url(#paper)"/>
+<path d="M462 53h9v158l-4.5 18-4.5-18Z" fill="#314936"/><path d="M462 58h3v151h-3Z" fill="#506348"/><path d="M462 210h9l-4.5 19Z" fill="#d9aa70"/><path d="m464.8 221.5 1.7 7.5 1.8-7.5Z" fill="#34362c"/><path d="M462 51h9v7h-9Z" fill="#c58353"/></g>
+<rect width="630" height="280" fill="url(#grain)" opacity=".18"/>
+</svg>

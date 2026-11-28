@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="280" viewBox="0 0 630 280" role="img" aria-label="Spesimen huruf A serif dan a sans serif pada garis tipografi">
+<title>Spesimen huruf A serif dan a sans serif pada garis tipografi</title>
+<defs>
+  <filter id="paper" x="-30%" y="-25%" width="170%" height="175%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="4.5"/></filter>
+  <pattern id="grain" width="6" height="7" patternUnits="userSpaceOnUse"><circle cx="1" cy="2" r=".52" fill="#332a23" opacity=".38"/><circle cx="5" cy="5" r=".5" fill="#fffdf4" opacity=".64"/></pattern>
+  <linearGradient id="stock" x2=".92" y2="1"><stop stop-color="#e4d8ef"/><stop offset=".54" stop-color="#d6c2e5"/><stop offset="1" stop-color="#c6afd8"/></linearGradient>
+</defs>
+<rect width="630" height="280" fill="url(#stock)"/>
+<g fill="none" stroke="#85699b" stroke-width=".9" opacity=".63"><path d="M63 59H565M63 201H565"/><path d="M74 117h480" stroke-dasharray="4 5"/><path d="M120 32v200m379-200v200" stroke-dasharray="2 6"/></g>
+<g stroke="#705985" stroke-width="1.2"><path d="M90 55v8m-4-4h8m440 138v8m-4-4h8"/></g>
+<path fill="#463047" transform="translate(145 201) scale(0.105469 -0.105469)" d="M461 53V0H20V53L172 80L629 1352H819L1294 80L1464 53V0H897V53L1077 80L944 467H416L281 80ZM676 1208 446 557H913Z"/>
+<path fill="#8662a0" transform="translate(325 201) scale(0.0913086 -0.0913086) skewX(7)" d="M674 504Q562 504 505.5 466.0Q449 428 449 354Q449 286 494.5 247.5Q540 209 621 209Q722 209 791.0 281.5Q860 354 860 463V504ZM1221 639V0H860V166Q788 64 698.0 17.5Q608 -29 479 -29Q305 -29 196.5 72.5Q88 174 88 336Q88 533 223.5 625.0Q359 717 649 717H860V745Q860 830 793.0 869.5Q726 909 584 909Q469 909 370.0 886.0Q271 863 186 817V1090Q301 1118 417.0 1132.5Q533 1147 649 1147Q952 1147 1086.5 1027.5Q1221 908 1221 639Z"/>
+<path d="M306 84v117m-3-117h6m-6 117h6" stroke="#765e88" stroke-width=".85" opacity=".66"/>
+<g fill="#574060" font-family="Arial,sans-serif" font-weight="600" font-size="10" letter-spacing="2.2"><text x="179" y="230">SERIF</text><text x="337" y="230">SANS SERIF</text></g>
+<g fill="#7b6387"><circle cx="120" cy="201" r="2"/><circle cx="499" cy="59" r="2"/></g>
+<rect width="630" height="280" fill="url(#grain)" opacity=".19"/>
+</svg>

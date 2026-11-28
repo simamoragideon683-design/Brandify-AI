@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="630" height="280" viewBox="0 0 630 280" role="img" aria-label="Kipas sampel cetak empat warna dari hijau hutan hingga krem">
+<title>Kipas sampel cetak empat warna dari hijau hutan hingga krem</title>
+<defs>
+  <filter id="paper" x="-30%" y="-25%" width="170%" height="175%" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="4.5"/></filter>
+  <pattern id="grain" width="6" height="7" patternUnits="userSpaceOnUse"><circle cx="1" cy="2" r=".52" fill="#332a23" opacity=".38"/><circle cx="5" cy="5" r=".5" fill="#fffdf4" opacity=".64"/></pattern>
+  <linearGradient id="sage" x1=".1" y1="0" x2=".95" y2="1"><stop stop-color="#dce6d5"/><stop offset=".55" stop-color="#d3e0ca"/><stop offset="1" stop-color="#c6d6bc"/></linearGradient>
+</defs>
+<rect width="630" height="280" fill="url(#sage)"/>
+<g transform="rotate(-52 317 230)">
+<rect x="267" y="42" width="104" height="207" rx="3" fill="#2e412a" opacity=".23" filter="url(#paper)"/>
+<rect x="265" y="36" width="104" height="209" rx="3" fill="#fcfaeb" stroke="#b5b89f" stroke-width=".75"/>
+<path d="M268 39h98v125h-98Z" fill="#2D5140"/><path d="M268 155h98v9h-98Z" fill="#244735"/>
+<text x="274" y="181" font-family="Arial,sans-serif" font-size="10" letter-spacing=".8" font-weight="700" fill="#334637">#2D5140</text>
+<path d="M275 190h31m4 0h9" stroke="#bec2a9" stroke-width="1.6"/>
+<circle cx="317" cy="230" r="3.6" fill="#8f937c"/><circle cx="316.3" cy="229.3" r="1.4" fill="#eef0de"/></g>
+<g transform="rotate(-28 317 230)">
+<rect x="267" y="42" width="104" height="207" rx="3" fill="#2e412a" opacity=".23" filter="url(#paper)"/>
+<rect x="265" y="36" width="104" height="209" rx="3" fill="#fcfaeb" stroke="#b5b89f" stroke-width=".75"/>
+<path d="M268 39h98v125h-98Z" fill="#719078"/><path d="M268 155h98v9h-98Z" fill="#5e8067"/>
+<text x="274" y="181" font-family="Arial,sans-serif" font-size="10" letter-spacing=".8" font-weight="700" fill="#334637">#719078</text>
+<path d="M275 190h31m4 0h9" stroke="#bec2a9" stroke-width="1.6"/>
+<circle cx="317" cy="230" r="3.6" fill="#8f937c"/><circle cx="316.3" cy="229.3" r="1.4" fill="#eef0de"/></g>
+<g transform="rotate(-4 317 230)">
+<rect x="267" y="42" width="104" height="207" rx="3" fill="#2e412a" opacity=".23" filter="url(#paper)"/>
+<rect x="265" y="36" width="104" height="209" rx="3" fill="#fcfaeb" stroke="#b5b89f" stroke-width=".75"/>
+<path d="M268 39h98v125h-98Z" fill="#AFC5A0"/><path d="M268 155h98v9h-98Z" fill="#9eb58e"/>
+<text x="274" y="181" font-family="Arial,sans-serif" font-size="10" letter-spacing=".8" font-weight="700" fill="#334637">#AFC5A0</text>
+<path d="M275 190h31m4 0h9" stroke="#bec2a9" stroke-width="1.6"/>
+<circle cx="317" cy="230" r="3.6" fill="#8f937c"/><circle cx="316.3" cy="229.3" r="1.4" fill="#eef0de"/></g>
+<g transform="rotate(21 317 230)">
+<rect x="267" y="42" width="104" height="207" rx="3" fill="#2e412a" opacity=".23" filter="url(#paper)"/>
+<rect x="265" y="36" width="104" height="209" rx="3" fill="#fcfaeb" stroke="#b5b89f" stroke-width=".75"/>
+<path d="M268 39h98v125h-98Z" fill="#DBDFBF"/><path d="M268 155h98v9h-98Z" fill="#c5c9a8"/>
+<text x="274" y="181" font-family="Arial,sans-serif" font-size="10" letter-spacing=".8" font-weight="700" fill="#334637">#DBDFBF</text>
+<path d="M275 190h31m4 0h9" stroke="#bec2a9" stroke-width="1.6"/>
+<circle cx="317" cy="230" r="3.6" fill="#8f937c"/><circle cx="316.3" cy="229.3" r="1.4" fill="#eef0de"/></g>
+<g transform="rotate(47 317 230)">
+<rect x="267" y="42" width="104" height="207" rx="3" fill="#2e412a" opacity=".23" filter="url(#paper)"/>
+<rect x="265" y="36" width="104" height="209" rx="3" fill="#fcfaeb" stroke="#b5b89f" stroke-width=".75"/>
+<path d="M268 39h98v125h-98Z" fill="#F1E7C9"/><path d="M268 155h98v9h-98Z" fill="#e0d4b4"/>
+<text x="274" y="181" font-family="Arial,sans-serif" font-size="10" letter-spacing=".8" font-weight="700" fill="#334637">#F1E7C9</text>
+<path d="M275 190h31m4 0h9" stroke="#bec2a9" stroke-width="1.6"/>
+<circle cx="317" cy="230" r="3.6" fill="#8f937c"/><circle cx="316.3" cy="229.3" r="1.4" fill="#eef0de"/></g>
+<rect width="630" height="280" fill="url(#grain)" opacity=".21"/>
+</svg>
